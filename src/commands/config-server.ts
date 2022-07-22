@@ -104,7 +104,7 @@ class ConfigGuildCommand extends Command {
         ); // aBool is avaliableBoolean
 
         if (!newValue) {
-          return message.channel.send(errorEmbed);
+          return message.channel.send;
         }
       }
     }
