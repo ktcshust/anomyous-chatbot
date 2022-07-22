@@ -1,0 +1,15 @@
+{
+  "ownerId": "253913831896645632",
+  "defaultPrefix": "n!",
+  "defaultLocale": "en",
+  "devSite": "derise.pw",
+  "patreonId": "22381631",
+  "contactServerInvite": "muNxAMV",
+  "contactServerId": "690456206548008970",
+  "searchCountChannel": "691585994444767262",
+  "searchCountText": "In search: {{searchCount}}",
+  "chatsCountChannel": "691585948076605491",
+  "chatsCountText": "Chats: {{chatCount}}",
+  "guildCountChannel": "691585916900212766",
+  "guildCountText": "Servers: {{guildCount}}"
+}
