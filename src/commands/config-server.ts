@@ -122,4 +122,4 @@ class ConfigGuildCommand extends Command {
   }
 }
 
-export default ConfigGuildCommand;
+export ConfigGuildCommand;
